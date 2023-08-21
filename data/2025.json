@@ -1,7 +1,7 @@
 [
   {
     "language": "English",
-    "year": "2024",
+    "year": "2025",
     "quarters": [
       {
         "id": "Q1",
@@ -13,10 +13,6 @@
           {
             "title": "Content Search V2",
             "Content": "Searching across videos and channels, and also doing search within channels or content categories, is important for effective discovery. Currently, Orion has very rudimentary full text natural language matching on titles and descriptions, but it is very brittle and naive, and often misses the mark. The goal of this milestone is to ship proper modern search capabilities."
-          },
-          {
-            "title": "Content Infrastructure: Visibility",
-            "Content": "With greater utilisation and scale, it has become clear that there is a need for better visibility into errors and performance levels at different layers of the infrastructure. This means both capturing data from the consumer and infrastructure layer, and also synthetically probing infrastructure to detect problems as early as possible. Currently, there is quite poor visibility into the performance of infrastructure, and the experience of users in interacting with this infrastructure. The goal of this milestone is to ship a set of integrations and standards for core infrastructure nodes, like Argus, Orion, to facilitate such visibility."
           }
         ]
       }
@@ -24,7 +20,7 @@
   },
   {
     "language": "Russia",
-    "year": "2024",
+    "year": "2025",
     "quarters": [
       {
         "id": "Q1",
@@ -36,10 +32,6 @@
           {
             "title": "Content Search V2",
             "Content": "Searching across videos and channels, and also doing search within channels or content categories, is important for effective discovery. Currently, Orion has very rudimentary full text natural language matching on titles and descriptions, but it is very brittle and naive, and often misses the mark. The goal of this milestone is to ship proper modern search capabilities."
-          },
-          {
-            "title": "Content Infrastructure: Visibility",
-            "Content": "With greater utilisation and scale, it has become clear that there is a need for better visibility into errors and performance levels at different layers of the infrastructure. This means both capturing data from the consumer and infrastructure layer, and also synthetically probing infrastructure to detect problems as early as possible. Currently, there is quite poor visibility into the performance of infrastructure, and the experience of users in interacting with this infrastructure. The goal of this milestone is to ship a set of integrations and standards for core infrastructure nodes, like Argus, Orion, to facilitate such visibility."
           }
         ]
       }
