@@ -37,6 +37,24 @@
             "Content": "Users access content across a wide range of browser, devices, applications and also under heterogeneous and dynamic bandwidth constraints. As it stands, only a single version of each media asset is represented in our metadata standards and backend node software. This means have now way to represent a broad range of encodings and resolutions for media assets, let alone produce all of these. Introducing server-side transcoding in Orion will unlock this, and many other future benefits that come from server-side post-processing (thumbnail extractions, auto-subtitling, etc.). It will also unlock the ability to do adaptive streaming, where a user with a dynamic connection can more quickly see asset resolve and play, and also be able to watch videos under suboptimal circumstances."
           }
         ]
+      },
+      {
+        "year": "2024",
+        "id": "Q1",
+        "deliveryMilestones": [
+          {
+            "title": "Content Recommendations V2",
+            "Content": "Surfacing personalised content for a consumer is a key requirement for any content platform. Key product experiences like home screens, feeds and related content, all depend on having modern machine learning based content recommendation system. Currently Orion has no infrastructure to produce or serve such recommendations, and app recommendations are being done entirely client-side. The goal of this milestone is to ship the first recommendation capability in Orion, to make Joystream apps much more"
+          },
+          {
+            "title": "Content Search V2",
+            "Content": "Searching across videos and channels, and also doing search within channels or content categories, is important for effective discovery. Currently, Orion has very rudimentary full text natural language matching on titles and descriptions, but it is very brittle and naive, and often misses the mark. The goal of this milestone is to ship proper modern search capabilities."
+          },
+          {
+            "title": "Content Infrastructure: Visibility",
+            "Content": "With greater utilisation and scale, it has become clear that there is a need for better visibility into errors and performance levels at different layers of the infrastructure. This means both capturing data from the consumer and infrastructure layer, and also synthetically probing infrastructure to detect problems as early as possible. Currently, there is quite poor visibility into the performance of infrastructure, and the experience of users in interacting with this infrastructure. The goal of this milestone is to ship a set of integrations and standards for core infrastructure nodes, like Argus, Orion, to facilitate such visibility."
+          }
+        ]
       }
     ]
   },
