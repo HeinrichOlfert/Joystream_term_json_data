@@ -1,9 +1,9 @@
 [
   {
     "language": "English",
-    "year": "2023",
     "quarters": [
       {
+        "year": "2023",
         "id": "Q3",
         "deliveryMilestones": [
           {
@@ -21,6 +21,7 @@
         ]
       },
       {
+        "year": "2023",
         "id": "Q4",
         "deliveryMilestones": [
           {
