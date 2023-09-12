@@ -38,7 +38,7 @@
           },
           {
             "title": "Want to learn more?",
-            "subtitle": "For a detailed overview of how each node works, please review the: <a href="/">Nodes overview</a>"
+            "subtitle": "For a detailed overview of how each node works, please review the: <a href='/'>Nodes overview</a>"
           }
         ],
         "relatedTerms": [
