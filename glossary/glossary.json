@@ -4,7 +4,7 @@
     "terms": [
       {
         "title": "Machine learning",
-        "tooltip": "Machine learning is a field of artificial intelligence that enables computers to learn and improve from experience without being explicitly programmed, by using data to make predictions and decisions.",
+        "tooltip": "Machine learning is a field of artificial intelligence that enables computers to learn and improve from experience ...",
         "content": "There are two distinct node type, storage nodes and bandwidth nodes, each being a network peer that the corresponding provider type operates in order to provision their service to the network. There is a reference software implementation of each node, called Colossus and Argus, respectively, but in principle there could be alternative node implementations for the same underlying protocol described in document.",
         "nodes": [
           {
@@ -51,7 +51,7 @@
       },
       {
         "title": "Builders",
-        "tooltip": "Launching a new application for your community using Atlas currently requires a lot of deep technical knowledge. You have to obtain hosting and a domain, start the service, configure it, and then maintain it. This is quite difficult. The goal of this milestone is to create the Reddit to phpBB, in terms of the experience of a prospective community creator and moderator. One requires substantially more work and skill. By instead offering a fully hosted and simple point-and-click feature, we can make it orders of magnitude easier to allow third parties to invite their communities to use Joystream.",
+        "tooltip": "Launching a new application for your community using Atlas currently requires a lot of deep technical knowledge. You have to obtain ...",
         "content": "There are two distinct node type, storage nodes and bandwidth nodes, each being a network peer that the corresponding provider type operates in order to provision their service to the network. There is a reference software implementation of each node, called Colossus and Argus, respectively, but in principle there could be alternative node implementations for the same underlying protocol described in document. ",
 
         "nodes": [
@@ -99,7 +99,7 @@
       },
       {
         "title": "Block",
-        "tooltip": "Building on top of Joystream today is still a challenging experience. There are no robust libraries or builder documentation for application development. Offering an excellent experience for developer to build apps, and not just use Atlas off-the shelf, will require a significant investment in building out the Joystream SDK. This milestone has as a goal to extract the core of key existing applications, like Atlas and Pioneer, and then to synthesise it all into a new core developer experience, with a suite of excellent tutorials, documentation, examples and also active outreach.",
+        "tooltip": "Building on top of Joystream today is still a challenging experience. There are no robust libraries or builder documentation for ...",
         "content": "There are two distinct node type, storage nodes and bandwidth nodes, each being a network peer that the corresponding provider type operates in order to provision their service to the network. There is a reference software implementation of each node, called Colossus and Argus, respectively, but in principle there could be alternative node implementations for the same underlying protocol described in document. ",
 
         "nodes": [
@@ -147,7 +147,7 @@
       },
       {
         "title": "Creator tokens",
-        "tooltip": "Launching a new application for your community using Atlas currently requires a lot of deep technical knowledge. You have to obtain hosting and a domain, start the service, configure it, and then maintain it. This is quite difficult. The goal of this milestone is to create the Reddit to phpBB, in terms of the experience of a prospective community creator and moderator. One requires substantially more work and skill. By instead offering a fully hosted and simple point-and-click feature, we can make it orders of magnitude easier to allow third parties to invite their communities to use Joystream.",
+        "tooltip": "Launching a new application for your community using Atlas currently requires a lot of deep technical knowledge. You have to ...",
         "content": "There are two distinct node type, storage nodes and bandwidth nodes, each being a network peer that the corresponding provider type operates in order to provision their service to the network. There is a reference software implementation of each node, called Colossus and Argus, respectively, but in principle there could be alternative node implementations for the same underlying protocol described in document. ",
 
         "nodes": [
@@ -200,7 +200,7 @@
     "terms": [
       {
         "title": "Machine learning",
-        "tooltip": "Machine learning is a field of artificial intelligence that enables computers to learn and improve from experience without being explicitly programmed, by using data to make predictions and decisions.",
+        "tooltip": "Machine learning is a field of artificial intelligence that enables computers to learn and improve from experience ...",
         "content": "There are two distinct node type, storage nodes and bandwidth nodes, each being a network peer that the corresponding provider type operates in order to provision their service to the network. There is a reference software implementation of each node, called Colossus and Argus, respectively, but in principle there could be alternative node implementations for the same underlying protocol described in document.",
         "nodes": [
           {
@@ -247,7 +247,7 @@
       },
       {
         "title": "Builders",
-        "tooltip": "Launching a new application for your community using Atlas currently requires a lot of deep technical knowledge. You have to obtain hosting and a domain, start the service, configure it, and then maintain it. This is quite difficult. The goal of this milestone is to create the Reddit to phpBB, in terms of the experience of a prospective community creator and moderator. One requires substantially more work and skill. By instead offering a fully hosted and simple point-and-click feature, we can make it orders of magnitude easier to allow third parties to invite their communities to use Joystream.",
+        "tooltip": "Launching a new application for your community using Atlas currently requires a lot of deep technical knowledge. You have to ...",
         "content": "There are two distinct node type, storage nodes and bandwidth nodes, each being a network peer that the corresponding provider type operates in order to provision their service to the network. There is a reference software implementation of each node, called Colossus and Argus, respectively, but in principle there could be alternative node implementations for the same underlying protocol described in document. ",
 
         "nodes": [
@@ -295,7 +295,7 @@
       },
       {
         "title": "Block",
-        "tooltip": "Building on top of Joystream today is still a challenging experience. There are no robust libraries or builder documentation for application development. Offering an excellent experience for developer to build apps, and not just use Atlas off-the shelf, will require a significant investment in building out the Joystream SDK. This milestone has as a goal to extract the core of key existing applications, like Atlas and Pioneer, and then to synthesise it all into a new core developer experience, with a suite of excellent tutorials, documentation, examples and also active outreach.",
+        "tooltip": "Building on top of Joystream today is still a challenging experience. There are no robust libraries or builder documentation ...",
         "content": "There are two distinct node type, storage nodes and bandwidth nodes, each being a network peer that the corresponding provider type operates in order to provision their service to the network. There is a reference software implementation of each node, called Colossus and Argus, respectively, but in principle there could be alternative node implementations for the same underlying protocol described in document. ",
 
         "nodes": [
@@ -343,7 +343,7 @@
       },
       {
         "title": "Creator tokens",
-        "tooltip": "Launching a new application for your community using Atlas currently requires a lot of deep technical knowledge. You have to obtain hosting and a domain, start the service, configure it, and then maintain it. This is quite difficult. The goal of this milestone is to create the Reddit to phpBB, in terms of the experience of a prospective community creator and moderator. One requires substantially more work and skill. By instead offering a fully hosted and simple point-and-click feature, we can make it orders of magnitude easier to allow third parties to invite their communities to use Joystream.",
+        "tooltip": "Launching a new application for your community using Atlas currently requires a lot of deep technical knowledge. You have to obtain...",
         "content": "There are two distinct node type, storage nodes and bandwidth nodes, each being a network peer that the corresponding provider type operates in order to provision their service to the network. There is a reference software implementation of each node, called Colossus and Argus, respectively, but in principle there could be alternative node implementations for the same underlying protocol described in document. ",
 
         "nodes": [
