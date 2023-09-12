@@ -4,7 +4,7 @@
     "terms": [
       {
         "title": "Machine learning",
-        "tooltip": "Machine learning is a field of artificial intelligence that enables computers to learn and improve from experience ...",
+        "tooltip": "Machine learning is a field of artificial intelligence that enables computers to learn and improve from experience...",
         "content": "There are two distinct node type, storage nodes and bandwidth nodes, each being a network peer that the corresponding provider type operates in order to provision their service to the network. There is a reference software implementation of each node, called Colossus and Argus, respectively, but in principle there could be alternative node implementations for the same underlying protocol described in document.",
         "nodes": [
           {
